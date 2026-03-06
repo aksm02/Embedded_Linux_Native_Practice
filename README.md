@@ -1,1 +1,1 @@
-# Embedded Linux WSL Practice
+# Embedded Linux Native Practice
